@@ -20,3 +20,6 @@ If you are unable to install Git LFS or prefer not to, you can obtain the comple
     2. Select **Download** to download the file from Git Large File Storage.
 
     ![Screenshot: download file](2-download.jpg)
+
+    3. Test of edit in repository I do not owe
+    
